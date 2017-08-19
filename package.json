@@ -1,0 +1,25 @@
+{
+  "name": "toplist",
+  "version": "1.0.0",
+  "description": "nothing to say",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/523753042/Angular.git"
+  },
+  "author": "Element Xiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/523753042/Angular/issues"
+  },
+  "homepage": "https://github.com/523753042/Angular#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
